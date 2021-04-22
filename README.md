@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Homewor 6- Personal Website
 
 You can use the [editor on GitHub](https://github.com/mcapu0002/mcapu0002.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -12,6 +12,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Header 1
+Hello 
 ## Header 2
 ### Header 3
 
