@@ -169,7 +169,7 @@ background-color: #82489c;
     text-align: center;
 }
 
-.probox {
+#probox {
     background: linear-gradient(to right, #3525af, #9153c9);
     width: 320px;
     padding: 10px;
