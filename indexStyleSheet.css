@@ -155,7 +155,19 @@ background-color: #82489c;
     padding: 2px 16px;
 }
 
-
+.title3 {
+    font-size: 24px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    padding-bottom: 10px;
+    color: #3525af;
+    position: relative;
+    text-align: right;
+    margin-bottom: 15px;
+    text-decoration: underline;
+    text-align: center;
+}
 
 .probox {
     background: linear-gradient(to right, #3525af, #9153c9);
