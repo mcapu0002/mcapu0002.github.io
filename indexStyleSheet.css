@@ -120,6 +120,7 @@ background-color: #82489c;
 
 .Back2 {
     background: linear-gradient(to right, #3525af, #9153c9);
+
 }
 .title2 {
     font-size: 24px;
@@ -131,4 +132,17 @@ background-color: #82489c;
     position: relative;
     text-align: right;
     margin-bottom: 15px;
+    text-align: center;
+    text-decoration: underline;
+}
+
+#info {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    border-radius: 5px;
+    display: inline-block;
+    max-width: 300px;
+    padding: 4px 4px;
+    margin: 10px;
+    background-color: white;
 }
