@@ -99,7 +99,7 @@ body
 }
 
 
-li a{
+.links li a{
 padding: 1em 1.5em;
 display: block;
 border-radius: 20px;
