@@ -97,3 +97,17 @@ body
   margin-right: 15px;
   background: #fff;
 }
+
+
+li a{
+padding: 1em 1.5em;
+display: block;
+border-radius: 20px;
+text-align: center;
+font-family: sans-serif;
+color: black;
+text-transform: uppercase;
+text-decoration: none;
+margin: 5px;
+background-color: #82489c;
+}
