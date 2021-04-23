@@ -116,3 +116,19 @@ text-decoration: none;
 margin: 5px;
 background-color: #82489c;
 }
+
+
+.Back2 {
+    background: linear-gradient(to right, #3525af, #9153c9);
+}
+.title2 {
+    font-size: 24px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    padding-bottom: 10px;
+    color: #3525af;
+    position: relative;
+    text-align: right;
+    margin-bottom: 15px;
+}
